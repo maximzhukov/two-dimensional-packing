@@ -1,1 +1,1 @@
-# two-dimensional-packing
+# two-dimensional packing
